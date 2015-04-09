@@ -9,7 +9,7 @@ Packages used:
 * GGMap
 * GGPlot2
 
-[Bus route plot](image.png?raw=true)
+![Bus route plot](image.png?raw=true)
 
 Data gathered from [http://data.rio.rj.gov.br/]
 
